@@ -1,0 +1,18 @@
+{
+    "13923842373": {
+        "nome": "Arthur",
+        "idade": 18,
+        "hobbies": [
+            "caminhada",
+            "tenis"
+        ]
+    },
+    "98465774850": {
+        "nome": "João Alvarez",
+        "idade": 43,
+        "hobbies": [
+            "caçada de formiga",
+            "tenis"
+        ]
+    }
+}
