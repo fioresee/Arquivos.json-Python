@@ -1,0 +1,27 @@
+{
+    "Captain Valor": [
+        "Super strength",
+        "Flight",
+        "Invulnerability"
+    ],
+    "Blazing Comet": [
+        "Fire control",
+        "Super speed",
+        "Flight"
+    ],
+    "Firehawk": [
+        "Fire manipulation",
+        "Flight",
+        "Thermal vision"
+    ],
+    "Gale Force": [
+        "Wind manipulation",
+        "Flight",
+        "Super speed"
+    ],
+    "Gravity Master": [
+        "Gravity manipulation",
+        "Flight",
+        "Super strength"
+    ]
+}
